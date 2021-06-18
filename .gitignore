@@ -1,0 +1,6 @@
+secrets.txt
+
+
+# is used for comment 
+# add new file name in new line
+# ( *.txt = it will prevent all txt files from getting commited)
